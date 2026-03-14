@@ -1,5 +1,6 @@
 # CodingCamp-9Mar26-khansamumtaz
 Mini Project Batch 09-03-2026
+
 # Browser Dashboard
 
 A minimal, customizable browser dashboard with focus timer, to-do list, and quick links.
